@@ -1,0 +1,1 @@
+var BaseUrl="https://multi.financesettlers.com/multi/public/";
